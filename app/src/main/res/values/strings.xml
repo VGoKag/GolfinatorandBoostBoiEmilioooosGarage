@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Golfinator and BoostBoiEmilioooo\'s Garage</string>
+    <string name="business_name">Golfinator &amp; BoostedBoiEmilio\'s Garage</string>
+    <string name="address">2815 W 8th Ave.</string>
+    <string name="city_state_zip">Denver, CO 80204</string>
+    <string name="description1">Car builders of all makes and models.</string>
+    <string name="description2">Drifting. Drag Racing. Road Racing. Rally.</string>
+
+</resources>
